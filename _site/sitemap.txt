@@ -12,7 +12,7 @@ http://zentral.github.io/posts
 http://zentral.github.io/rss.xml
 http://zentral.github.io/sitemap.txt
 http://zentral.github.io/tags
-http://zentral.github.io/tontr%C3%A4ger&unterhaltung
+http://zentral.github.io/tontraeger&unterhaltung
 
 http://zentral.github.io/2016/09/21/michael-fischer
 http://zentral.github.io/2016/09/20/voice-o-graph
