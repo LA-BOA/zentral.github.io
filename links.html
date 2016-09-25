@@ -1,0 +1,74 @@
+---
+layout: page
+title : links
+header : tricx - links
+group: navigation
+---
+
+
+{% comment %}
+<div class="page-header">
+  <h3>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h3>
+</div>
+{% endcomment %}
+
+
+<hr>
+<dic class="row-fluid">
+	<div class="span6">
+
+	
+<p>
+<a href="https://soundcloud.com/" target="_blank">
+<img src="{{ site.url }}/images/scloud.png" alt="image">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/" target="_blank">
+{% comment %}	
+<img src="{{ site.url }}/images/gh.png" alt="image">
+{% endcomment %}
+</a>
+
+
+{% comment %}
+{% for link in site.JB.links_list %}
+    <dt><a href="{{link[1]}}" target="_blank"><b>{{link[0]}}</b></a></dt>
+{% endfor %}
+{% endcomment %}
+
+</p>
+
+
+
+
+	</div>
+
+	<div class="span6">
+
+	{% comment %}
+<p> + FRIENDS: <br /><br />
+	
+{% for link in site.JB.links_list_friends %}
+    <dt><a href="{{link[1]}}" target="_blank"><b>{{link[0]}}</b></a></dt>
+{% endfor %}
+
+	{% endcomment %}
+</p>
+	</div>
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+{% comment %}
+
+this systematic works with firefox, but not in chrome or safari
+seems that container-narrow doesn't adapt to the height of span6
+problem with row-fluid?
+how could it be done with tables and media query?
+
+dirty hack: dependent on the length of the links_list, use line breaks to fill container-narrow
+
+<dic class="row-fluid">
+<div class="span6">col1<p>&nbsp;</p>hello1</div><div class="span6">col2<p>&nbsp;</p>hello2<p>&nbsp;</p><p>&nbsp;</p>und hier2</div>
+</div>
+{% endcomment %}

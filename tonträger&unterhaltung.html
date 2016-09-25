@@ -1,0 +1,44 @@
+---
+layout: page
+title : Tonträger&Unterhaltung
+header : Z - T&U
+group: navigation
+---
+
+
+<head>
+<style>
+body{
+  background-image:none;
+  background-color: white !important;
+}
+</style>
+</head>
+
+
+
+<div>
+{% for tag in site.tags %} 
+  {% if page.title == tag[0] %}
+  
+      {% comment %}
+      <ul class="unstyled">
+          {% assign pages_list = tag[1] %}  
+          {% include JB/pages_list %}
+      </ul>
+      {{tag[1]}}
+      {% endcomment %}
+
+  {% for items in tag[1] %}
+    <div class="distance">
+      <hr>
+      {{items.content}}
+    </div>
+
+  {% endfor %}
+        
+  {% endif %}
+{% endfor %}
+</div>
+
+
