@@ -5,9 +5,22 @@
           border-radius: 0 !important;
 }
 
+
+/*<style type="text/css">*/
+@font-face {
+    font-family: "Alte Haas Grotesk";
+    src: url(../font/ufonts.com_alte-haas-grotesk.ttf) format("truetype");
+}
+/*</style>*/
+/*p.customfont { 
+    font-family: "Alte Haas Grotesk", Helvetica, Arial;
+}*/
+
+
+
 body {
   margin: 0;
-  font: 11.5px/15.5px "Helvetica", Helvetica, Arial, sans-serif;
+  font: 11.5px/15.5px "Alte Haas Grotesk", Helvetica, Arial, sans-serif;
   letter-spacing: 0.01em;
   /*font: 11.5px/16px Verdana,​Arial,​sans-serif;*/
   /*font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;*/
@@ -617,4 +630,22 @@ border:none;
   border: 1px solid #4c964d;
   color: #FFF; }
 
+@media (max-width: 790px) {
+  .navbar-inner {
+   /* display: flex;
+    flex-direction: row;*/
+
+  }
+/*  .nav {
+    
+    
+  }*/
+  .logo {
+    margin-top: 0px;
+  }
+  .nav li a {
+    font-size: 12px !important;
+    padding: 4px !important;
+  }
+}
 
