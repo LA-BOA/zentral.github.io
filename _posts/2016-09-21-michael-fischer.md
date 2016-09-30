@@ -11,7 +11,7 @@ JB :
 
 
 <p>
-<h4>"Michael Fischer"</h4>
+<h4>Michael Fischer</h4>
 Feedbacksaxophon / Voice-o-Graph, Zentrale, 16|9|16
 
 <br /><br />

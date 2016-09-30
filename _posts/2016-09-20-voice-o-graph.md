@@ -12,7 +12,7 @@ JB :
 
 <p>
 
-<h4>"Voice-O-Graph"</h4>	
+<h4>Voice-O-Graph</h4>	
 von Christoph Freidhöfer und Natascha Muhic<br /><br />
 
 Ausstellungsdauer: 09.09. - 25.09.2106<br /><br />
