@@ -631,21 +631,29 @@ border:none;
   color: #FFF; }
 
 @media (max-width: 790px) {
-  .navbar-inner {
-   /* display: flex;
-    flex-direction: row;*/
 
+  .indent-text {
+    margin-top: 20px;
   }
-/*  .nav {
-    
-    
-  }*/
+
   .logo {
     margin-top: 0px;
   }
   .nav li a {
-    font-size: 12px !important;
-    padding: 4px !important;
+    font-size: 13px !important;
+    padding: 3px !important;
   }
 }
 
+@media (max-width: 720px) {
+  .indent-text {
+    margin-top: 100px;
+  }
+}
+
+@media (max-width: 620px) {
+  .navbar-inner {
+    display: flex;
+    flex-direction: row;
+  }
+}
