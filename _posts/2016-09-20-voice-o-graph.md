@@ -22,7 +22,7 @@ Der Voice-O-Graph ist eine Apparatur, in etwa wie ein Passbild-Automat, nur wird
 </p>
 <img src="{{ site.url }}/images/voiceograph_heller.jpg" alt="image">
 
-<br /><br /><br />
+<br /><br />
 
 <p>
 JSX - Jorge Sanchez Chiong live:
@@ -30,3 +30,13 @@ JSX - Jorge Sanchez Chiong live:
 </p>
 
 <img src="{{ site.url }}/images/jorge_sanchez.jpg" alt="image">
+
+<br /><br />
+
+<p>
+Black Biuti live:
+<br /><br />
+</p>
+
+<img src="{{ site.url }}/images/blackbiuti.jpg" alt="image">
+
