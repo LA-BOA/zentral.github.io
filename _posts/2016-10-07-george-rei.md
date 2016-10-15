@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: Performance
+tags: Ausstellung
 JB :
   analytics : false
 ---
@@ -10,17 +10,16 @@ JB :
 {% include JB/setup %}
 
 
+
+
 <p>
-<h4>Michael Fischer</h4>
-Feedbacksaxophon / Voice-o-Graph, Zentrale, 16|9|16
+<h4>George Rei</h4>
+'40,000 Feet' Zentrale, 16|9|16
 
 <br /><br />
-<img src="{{ site.url }}/images/michael_fischer2.jpg" alt="image">
+<img src="{{ site.url }}/images/george_rei.jpg" alt="image">
 <br /><br />
 
-<br /><br />
-<img src="{{ site.url }}/images/michael_fischer.jpg" alt="image">
-<br /><br />
 
 {% comment %}
 <br /><br />
@@ -35,5 +34,3 @@ Michael Fischer live:
 
 
 
-{% comment %}
-{% endcomment %}

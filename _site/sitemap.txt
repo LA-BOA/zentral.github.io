@@ -1,6 +1,8 @@
 
+http://zentral.github.io/archiv
 http://zentral.github.io/atom.xml
 http://zentral.github.io/ausstellung&performance
+http://zentral.github.io/ausstellung
 http://zentral.github.io/biografie&artefakt
 http://zentral.github.io/blog
 http://zentral.github.io/diskurs&konfrontation
@@ -8,12 +10,13 @@ http://zentral.github.io/
 http://zentral.github.io/kontakt
 http://zentral.github.io/kontakt_post
 http://zentral.github.io/links
+http://zentral.github.io/performance
 http://zentral.github.io/posts
 http://zentral.github.io/rss.xml
 http://zentral.github.io/sitemap.txt
 http://zentral.github.io/tags
 http://zentral.github.io/tontraeger&unterhaltung
 
+http://zentral.github.io/2016/10/07/george-rei
 http://zentral.github.io/2016/09/21/michael-fischer
 http://zentral.github.io/2016/09/20/voice-o-graph
-http://zentral.github.io/2016/09/07/george-rei

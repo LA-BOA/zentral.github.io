@@ -109,6 +109,7 @@ hr {
     /*background-color: #E5E5E5;*/
     background-color: black;
     color: white;
+    font-weight: bold;
     /* remove the gradient */
     background-image: none;
     background-repeat: no-repeat;

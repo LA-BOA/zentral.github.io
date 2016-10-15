@@ -127,10 +127,13 @@ JB :
 
   # pages in navbar ( no subcategories)
   navi_pages:
-     - "Ausstellung&Performance"
-     - "Biografie&Artefakt"
-     - "Tontraeger&Unterhaltung"
-     - "Diskurs&Konfrontation"
+     - "Ausstellung"
+     - "Performance"
+    # - "Ausstellung&Performance"
+    # - "Biografie&Artefakt"
+    # - "Tontraeger&Unterhaltung"
+    #- "Diskurs&Konfrontation"
+     - "Archiv"
      - "Kontakt"
     
   # pages with subcategories in navbar
