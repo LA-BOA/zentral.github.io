@@ -12,7 +12,7 @@ JB :
 
 <p>
 <h4>Michael Fischer</h4>
-Feedbacksaxophon / Voice-o-Graph, Zentrale, 16|9|16
+Feedbacksaxophon, 16|9|16
 
 <br /><br />
 <img src="{{ site.url }}/images/michael_fischer2.jpg" alt="image">
