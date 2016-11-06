@@ -18,12 +18,11 @@ computer 29|10|16
 <br /><br />
 João Castro Pinto’s sound work ranges between: soundscape composition, dense droning, noise, electroacoustic, acousmatic, tape music & experimental electronic genres. He plays live electroacoustic music, with and without instrumentalists, as tape music / spatialization concerts.
 
+<br /><br />
+<img src="{{ site.url }}/images/joao_pinto.jpg" alt="image">
+
 
 {% comment %}
-<br /><br />
-<img src="{{ site.url }}/images/cabaret-poulet.jpg" alt="image">
-<br /><br />
-
 <br /><br />
 Michael Fischer live:
 <br /><br />

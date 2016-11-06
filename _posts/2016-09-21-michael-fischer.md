@@ -15,14 +15,13 @@ JB :
 Feedbacksaxophon, 16|9|16
 
 <br /><br />
-<img src="{{ site.url }}/images/michael_fischer2.jpg" alt="image">
-<br /><br />
-
-<br /><br />
 <img src="{{ site.url }}/images/michael_fischer.jpg" alt="image">
 <br /><br />
 
 {% comment %}
+<br /><br />
+<img src="{{ site.url }}/images/michael_fischer2.jpg" alt="image">
+<br /><br />
 <br /><br />
 Michael Fischer live:
 <br /><br />

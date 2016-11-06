@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: Ausstellung, Performance
+tags: Performance Ausstellung
 JB :
   analytics : false
 ---
@@ -14,9 +14,7 @@ JB :
 
 <p>
 <h4>Roy Culbertson</h4>
-Metall/Schweine/Popcorn/Styropor und Pommes, Zentrale, 03|11|16
-<br /><br />
-
+Metall/Schweine/Popcorn/Styropor und Pommes, 03|11|16
 
 <br /><br />
 <img src="{{ site.url }}/images/roy-culbertson.jpg" alt="image">

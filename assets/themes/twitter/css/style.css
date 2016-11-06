@@ -58,17 +58,19 @@ html {
   /*margin-left: 3%;*/
   background-color: white;
   color: black;
-  max-width: 980px;
+  /*--------------------------- change outer size here !!*/
+  max-width: 880px;
 }
 
 /*change spacing to hr*/
 /*.container-narrow > hr {
   margin: 18px 0; }*/
 
-/*---------------------------*/
+/*--------------------------- change inner size here !!*/
 /* indent text */
 .indent-text{
-  margin:4%;
+  margin:0%;
+  /*margin:4%;*/
 }
 /* indent text for sidebar*/
 .indent-text2{

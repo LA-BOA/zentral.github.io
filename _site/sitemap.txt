@@ -17,6 +17,15 @@ http://zentral.github.io/sitemap.txt
 http://zentral.github.io/tags
 http://zentral.github.io/tontraeger&unterhaltung
 
+http://zentral.github.io/2016/11/03/roy-culbertson
+http://zentral.github.io/2016/11/03/anna-andreas
+http://zentral.github.io/2016/10/29/joao-pinto
 http://zentral.github.io/2016/10/07/george-rei
+http://zentral.github.io/2016/10/07/cabaret-poulet
+http://zentral.github.io/2016/10/07/albert-mayr
+http://zentral.github.io/2016/10/01/karl-salzmann
 http://zentral.github.io/2016/09/21/michael-fischer
 http://zentral.github.io/2016/09/20/voice-o-graph
+http://zentral.github.io/2016/09/20/jsx
+http://zentral.github.io/2016/09/20/black-biuti
+http://zentral.github.io/2016/09/03/noak-escalante
