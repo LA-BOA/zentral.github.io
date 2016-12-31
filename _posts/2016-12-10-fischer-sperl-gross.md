@@ -15,7 +15,6 @@ JB :
 <p>
 <h4>Sperl / Fischer / Gross</h4>
 10|12|16
-<br /><br />
 
 <br /><br />
 <img src="{{ site.url }}/images/fischer_sperl.jpg" alt="image">

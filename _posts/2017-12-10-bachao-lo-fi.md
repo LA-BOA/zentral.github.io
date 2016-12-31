@@ -15,7 +15,6 @@ JB :
 <p>
 <h4>Bachaco Lo-Fi</h4>
 17|12|16
-<br /><br />
 
 {% comment %}
 <br /><br />

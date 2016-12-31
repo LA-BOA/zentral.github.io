@@ -15,7 +15,6 @@ JB :
 <p>
 <h4>Die Vorspielservice</h4>
 16|12|16
-<br /><br />
 
 <br /><br />
 <img src="{{ site.url }}/images/vorspielservice.jpg" alt="image">
