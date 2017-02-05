@@ -16,8 +16,8 @@ JB :
 <h4>Line Finderup Jensen & Maitane Midby</h4>
 'Silent Scream', 08|12|16
 <br /><br />
-<h4>live:<br />
-Danielle Pamp, Peter Moosgaard</h4>
+<h5>live:<br />
+Danielle Pamp, Peter Moosgaard</h5>
 
 <br /><br />
 <img src="{{ site.url }}/images/line_maitane.jpg" alt="image">
