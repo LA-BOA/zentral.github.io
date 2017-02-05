@@ -17,7 +17,16 @@ http://zentral.github.io/sitemap.txt
 http://zentral.github.io/tags
 http://zentral.github.io/tontraeger&unterhaltung
 
-http://zentral.github.io/2016/11/03/roy-culbertson
+http://zentral.github.io/2017/02/04/rappold
+http://zentral.github.io/2017/01/13/romenkova-munk
+http://zentral.github.io/2017/01/13/munk-frey
+http://zentral.github.io/2016/12/18/bachao-lo-fi
+http://zentral.github.io/2016/12/17/vorspielservice
+http://zentral.github.io/2016/12/10/fischer-sperl-gross
+http://zentral.github.io/2016/12/08/line-maitane
+http://zentral.github.io/2016/11/24/thomas-wagensommerer
+http://zentral.github.io/2016/11/11/gustavo-stefan
+http://zentral.github.io/2016/11/03/royl-culbertson
 http://zentral.github.io/2016/11/03/anna-andreas
 http://zentral.github.io/2016/10/29/joao-pinto
 http://zentral.github.io/2016/10/07/george-rei

@@ -16,10 +16,12 @@ JB :
 <h4>Elena Romenkova & Christian Munk</h4>
 'TUR8AT1O IN DATA OF TIMEÄ, 13|01|17
 <br /><br />
-<h5>live:<br />
-Christian Munk & Lambert Frey</h5>
+<p style="font-size:14px">
+live:<br />
+Christian Munk & Lambert Frey
+</p>
 
-<br /><br />
+<br />
 <img src="{{ site.url }}/images/romenkova.jpg" alt="image">
 <br /><br />
 </p>

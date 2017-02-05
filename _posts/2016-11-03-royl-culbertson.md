@@ -13,11 +13,11 @@ JB :
 
 
 <p>
-<h4>Roy Culbertson</h4>
+<h4>Royl Culbertson</h4>
 Metall/Schweine/Popcorn/Styropor und Pommes, 03|11|16
 
 <br /><br />
-<img src="{{ site.url }}/images/roy-culbertson.jpg" alt="image">
+<img src="{{ site.url }}/images/royl-culbertson.jpg" alt="image">
 <br /><br />
 
 
