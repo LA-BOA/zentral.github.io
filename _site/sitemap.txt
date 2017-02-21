@@ -7,7 +7,7 @@ http://zentral.github.io/biografie&artefakt
 http://zentral.github.io/blog
 http://zentral.github.io/diskurs&konfrontation
 http://zentral.github.io/
-http://zentral.github.io/kontakt
+http://zentral.github.io/info
 http://zentral.github.io/kontakt_post
 http://zentral.github.io/links
 http://zentral.github.io/performance

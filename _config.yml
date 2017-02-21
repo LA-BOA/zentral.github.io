@@ -134,7 +134,7 @@ JB :
     # - "Tontraeger&Unterhaltung"
     #- "Diskurs&Konfrontation"
      - "Archiv"
-     - "Kontakt"
+     - "Info"
     
   # pages with subcategories in navbar
   navi_categories:
