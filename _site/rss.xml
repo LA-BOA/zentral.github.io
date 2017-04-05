@@ -5,10 +5,61 @@
         <description>zentral - zentral</description>
         <link>http://zentral.github.io</link>
         <link>http://zentral.github.io</link>
-        <lastBuildDate>2017-02-21T13:57:42+08:00</lastBuildDate>
-        <pubDate>2017-02-21T13:57:42+08:00</pubDate>
+        <lastBuildDate>2017-04-05T13:48:47+02:00</lastBuildDate>
+        <pubDate>2017-04-05T13:48:47+02:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Mario De Vega</title>
+                <description>
+&lt;p&gt;
+&lt;h4&gt;Mario de Vega&lt;/h4&gt;
+01|04|17
+
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/mario.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/p&gt;
+</description>
+                <link>http://zentral.github.io/2017/04/01/mario-de-vega</link>
+                <guid>http://zentral.github.io/2017/04/01/mario-de-vega</guid>
+                <pubDate>2017-04-01T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Trauriges Tropen Orchester</title>
+                <description>
+&lt;p&gt;
+&lt;h4&gt;Trauriges Tropen Orchester&lt;/h4&gt;
+31|03|17
+
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/tropen.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/p&gt;
+</description>
+                <link>http://zentral.github.io/2017/03/31/trauriges-tropen-orchester</link>
+                <guid>http://zentral.github.io/2017/03/31/trauriges-tropen-orchester</guid>
+                <pubDate>2017-03-31T00:00:00+02:00</pubDate>
+        </item>
+
+        <item>
+                <title>Two Women Show</title>
+                <description>
+&lt;p&gt;
+&lt;h4&gt;Two Women Show - Ipek Burçak &amp;amp; Charlotte Hermann&lt;/h4&gt;
+14|03|17
+
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/images/two-women.jpg&quot; alt=&quot;image&quot; /&gt;
+
+&lt;/p&gt;
+</description>
+                <link>http://zentral.github.io/2017/03/14/two-women-show</link>
+                <guid>http://zentral.github.io/2017/03/14/two-women-show</guid>
+                <pubDate>2017-03-14T00:00:00+01:00</pubDate>
+        </item>
 
         <item>
                 <title>Rappold</title>
@@ -24,7 +75,7 @@
 </description>
                 <link>http://zentral.github.io/2017/02/04/rappold</link>
                 <guid>http://zentral.github.io/2017/02/04/rappold</guid>
-                <pubDate>2017-02-04T00:00:00+08:00</pubDate>
+                <pubDate>2017-02-04T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -47,7 +98,7 @@ Christian Munk &amp;amp; Lambert Frey
 </description>
                 <link>http://zentral.github.io/2017/01/13/romenkova-munk</link>
                 <guid>http://zentral.github.io/2017/01/13/romenkova-munk</guid>
-                <pubDate>2017-01-13T00:00:00+08:00</pubDate>
+                <pubDate>2017-01-13T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -64,7 +115,7 @@ Christian Munk &amp;amp; Lambert Frey
 </description>
                 <link>http://zentral.github.io/2017/01/13/munk-frey</link>
                 <guid>http://zentral.github.io/2017/01/13/munk-frey</guid>
-                <pubDate>2017-01-13T00:00:00+08:00</pubDate>
+                <pubDate>2017-01-13T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -83,7 +134,7 @@ Christian Munk &amp;amp; Lambert Frey
 </description>
                 <link>http://zentral.github.io/2016/12/18/bachao-lo-fi</link>
                 <guid>http://zentral.github.io/2016/12/18/bachao-lo-fi</guid>
-                <pubDate>2016-12-18T00:00:00+08:00</pubDate>
+                <pubDate>2016-12-18T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -104,7 +155,7 @@ Christian Munk &amp;amp; Lambert Frey
 </description>
                 <link>http://zentral.github.io/2016/12/17/vorspielservice</link>
                 <guid>http://zentral.github.io/2016/12/17/vorspielservice</guid>
-                <pubDate>2016-12-17T00:00:00+08:00</pubDate>
+                <pubDate>2016-12-17T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -125,7 +176,7 @@ Christian Munk &amp;amp; Lambert Frey
 </description>
                 <link>http://zentral.github.io/2016/12/10/fischer-sperl-gross</link>
                 <guid>http://zentral.github.io/2016/12/10/fischer-sperl-gross</guid>
-                <pubDate>2016-12-10T00:00:00+08:00</pubDate>
+                <pubDate>2016-12-10T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -152,7 +203,7 @@ Danielle Pamp, Peter Moosgaard
 </description>
                 <link>http://zentral.github.io/2016/12/08/line-maitane</link>
                 <guid>http://zentral.github.io/2016/12/08/line-maitane</guid>
-                <pubDate>2016-12-08T00:00:00+08:00</pubDate>
+                <pubDate>2016-12-08T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -174,7 +225,7 @@ sleeping domains, 24|11|16
 </description>
                 <link>http://zentral.github.io/2016/11/24/thomas-wagensommerer</link>
                 <guid>http://zentral.github.io/2016/11/24/thomas-wagensommerer</guid>
-                <pubDate>2016-11-24T00:00:00+08:00</pubDate>
+                <pubDate>2016-11-24T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -195,7 +246,7 @@ computer 11|11|16
 </description>
                 <link>http://zentral.github.io/2016/11/11/gustavo-stefan</link>
                 <guid>http://zentral.github.io/2016/11/11/gustavo-stefan</guid>
-                <pubDate>2016-11-11T00:00:00+08:00</pubDate>
+                <pubDate>2016-11-11T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -217,7 +268,7 @@ Metall/Schweine/Popcorn/Styropor und Pommes, 03|11|16
 </description>
                 <link>http://zentral.github.io/2016/11/03/royl-culbertson</link>
                 <guid>http://zentral.github.io/2016/11/03/royl-culbertson</guid>
-                <pubDate>2016-11-03T00:00:00+08:00</pubDate>
+                <pubDate>2016-11-03T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -242,7 +293,7 @@ Einlegetemperatur 170°C. Schalter auf Pop stellen und 2-3 min warten. Der Heizs
 </description>
                 <link>http://zentral.github.io/2016/11/03/anna-andreas</link>
                 <guid>http://zentral.github.io/2016/11/03/anna-andreas</guid>
-                <pubDate>2016-11-03T00:00:00+08:00</pubDate>
+                <pubDate>2016-11-03T00:00:00+01:00</pubDate>
         </item>
 
         <item>
@@ -265,7 +316,7 @@ João Castro Pinto’s sound work ranges between: soundscape composition, dense 
 </description>
                 <link>http://zentral.github.io/2016/10/29/joao-pinto</link>
                 <guid>http://zentral.github.io/2016/10/29/joao-pinto</guid>
-                <pubDate>2016-10-29T00:00:00+08:00</pubDate>
+                <pubDate>2016-10-29T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -294,7 +345,7 @@ Albert Mayr &amp;amp; Cabaret Poulet
 </description>
                 <link>http://zentral.github.io/2016/10/07/george-rei</link>
                 <guid>http://zentral.github.io/2016/10/07/george-rei</guid>
-                <pubDate>2016-10-07T00:00:00+08:00</pubDate>
+                <pubDate>2016-10-07T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -316,7 +367,7 @@ feedback, contact mics, devices, 07|10|16
 </description>
                 <link>http://zentral.github.io/2016/10/07/cabaret-poulet</link>
                 <guid>http://zentral.github.io/2016/10/07/cabaret-poulet</guid>
-                <pubDate>2016-10-07T00:00:00+08:00</pubDate>
+                <pubDate>2016-10-07T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -338,7 +389,7 @@ plant, sampler, devices, 07|10|16
 </description>
                 <link>http://zentral.github.io/2016/10/07/albert-mayr</link>
                 <guid>http://zentral.github.io/2016/10/07/albert-mayr</guid>
-                <pubDate>2016-10-07T00:00:00+08:00</pubDate>
+                <pubDate>2016-10-07T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -360,7 +411,7 @@ ultra low bass loudspeaker, 01|10|16
 </description>
                 <link>http://zentral.github.io/2016/10/01/karl-salzmann</link>
                 <guid>http://zentral.github.io/2016/10/01/karl-salzmann</guid>
-                <pubDate>2016-10-01T00:00:00+08:00</pubDate>
+                <pubDate>2016-10-01T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -381,7 +432,7 @@ Feedbacksaxophon, 16|9|16
 </description>
                 <link>http://zentral.github.io/2016/09/21/michael-fischer</link>
                 <guid>http://zentral.github.io/2016/09/21/michael-fischer</guid>
-                <pubDate>2016-09-21T00:00:00+08:00</pubDate>
+                <pubDate>2016-09-21T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -402,7 +453,7 @@ Ausstellungsansicht Voice-O-Graph, Christoph Freidhöfer / Natascha Muhic&lt;br 
 </description>
                 <link>http://zentral.github.io/2016/09/20/voice-o-graph</link>
                 <guid>http://zentral.github.io/2016/09/20/voice-o-graph</guid>
-                <pubDate>2016-09-20T00:00:00+08:00</pubDate>
+                <pubDate>2016-09-20T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -419,7 +470,7 @@ Turntables, live recordings voice-o-graph, 08|9|16
 </description>
                 <link>http://zentral.github.io/2016/09/20/jsx</link>
                 <guid>http://zentral.github.io/2016/09/20/jsx</guid>
-                <pubDate>2016-09-20T00:00:00+08:00</pubDate>
+                <pubDate>2016-09-20T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -437,7 +488,7 @@ Paezold, contact mics, devices, 08|9|16
 </description>
                 <link>http://zentral.github.io/2016/09/20/black-biuti</link>
                 <guid>http://zentral.github.io/2016/09/20/black-biuti</guid>
-                <pubDate>2016-09-20T00:00:00+08:00</pubDate>
+                <pubDate>2016-09-20T00:00:00+02:00</pubDate>
         </item>
 
         <item>
@@ -458,7 +509,7 @@ saxophone, guitar, computer 03|9|16
 </description>
                 <link>http://zentral.github.io/2016/09/03/noak-escalante</link>
                 <guid>http://zentral.github.io/2016/09/03/noak-escalante</guid>
-                <pubDate>2016-09-03T00:00:00+08:00</pubDate>
+                <pubDate>2016-09-03T00:00:00+02:00</pubDate>
         </item>
 
 

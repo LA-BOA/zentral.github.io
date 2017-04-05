@@ -17,6 +17,9 @@ http://zentral.github.io/sitemap.txt
 http://zentral.github.io/tags
 http://zentral.github.io/tontraeger&unterhaltung
 
+http://zentral.github.io/2017/04/01/mario-de-vega
+http://zentral.github.io/2017/03/31/trauriges-tropen-orchester
+http://zentral.github.io/2017/03/14/two-women-show
 http://zentral.github.io/2017/02/04/rappold
 http://zentral.github.io/2017/01/13/romenkova-munk
 http://zentral.github.io/2017/01/13/munk-frey
