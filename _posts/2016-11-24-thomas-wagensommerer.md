@@ -2,7 +2,7 @@
 published: true
 layout: post
 show_worktitle_sidebar: true
-tags: Performance Ausstellung
+tags: Ausstellung
 JB :
   analytics : false
 ---
