@@ -14,7 +14,7 @@ JB :
 
 <p>
 <h4>Line Finderup Jensen & Maitane Midby</h4>
-'Silent Scream', 08|12|16
+Silent Scream, 08|12|16
 <br /><br />
 <p style="font-size:14px">
 live:<br />
