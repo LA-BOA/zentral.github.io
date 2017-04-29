@@ -21,4 +21,3 @@ Der Voice-O-Graph ist eine Apparatur, in etwa wie ein Passbild-Automat, nur wird
 </p>
 <img src="{{ site.url }}/images/voiceograph_heller.jpg" alt="image">
 <br />
-Ausstellungsansicht Voice-O-Graph, Christoph Freidhöfer / Natascha Muhic<br />
