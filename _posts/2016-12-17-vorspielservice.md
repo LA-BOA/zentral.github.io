@@ -14,7 +14,8 @@ JB :
 
 <p>
 <h4>Die Vorspielservice</h4>
-16|12|16<br />
+16|12|16
+<br /><br />
 Electric Indigo, Michaela Schwentner & Amina Handke
 
 <br /><br />
