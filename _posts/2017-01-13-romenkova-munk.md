@@ -14,7 +14,9 @@ JB :
 
 <p>
 <h4>Elena Romenkova & Christian Munk</h4>
-TUR8AT1O IN DATA OF TIMEÄ, 13|01|17
+TUR8AT1O IN DATA OF TIMEÄ
+<br />
+13|01|17
 <br /><br />
 <p style="font-size:14px">
 live:<br />
