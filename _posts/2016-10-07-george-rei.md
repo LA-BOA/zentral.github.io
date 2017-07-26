@@ -14,9 +14,8 @@ JB :
 
 <p>
 <h4>George Rei</h4>
+'40,000 Feet' Zentrale<br />
 07|10|16
-<br />
-'40,000 Feet' Zentrale
 <br /><br />
 40,000 feet up in a Pan Am 747 intersecting the sun somewhere over the Mid-Atlantic Ridge, the strained scent of tobacco creeping in from the smoking section, the ashtray full of chewing gum, tinny music piping out of the armrest from far away in the bowels of the plane and snaking its way through rubber tube headphones, curled up in the seats under the thin blankets between sleeping and awake, the world is perfect.
 <br /><br />
