@@ -14,8 +14,8 @@ JB :
 
 <p>
 <h4>Thomas Wagensommerer</h4>
-sleeping domains, 24|11|16
-
+sleeping domains<br />
+24|11|16
 <br /><br />
 <img src="{{ site.url }}/images/thomas_wagensommerer.jpg" alt="image">
 <br /><br />

@@ -14,7 +14,7 @@ JB :
 <h4>Black Biuti</h4>	
 08|9|16<br /><br />
 
-Paezold, contact mics, devices, 
+Paezold, contact mics, devices
 <br /><br />
 </p>
 

@@ -12,8 +12,9 @@ JB :
 
 <p>
 <h4>Michael Fischer</h4>
-Feedbacksaxophon, 16|9|16
-
+16|9|16
+<br /><br />
+Feedbacksaxophon
 <br /><br />
 <img src="{{ site.url }}/images/michael_fischer.jpg" alt="image">
 <br /><br />
