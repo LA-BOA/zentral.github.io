@@ -15,7 +15,7 @@ JB :
 <p>
 <h4>Albert Mayr</h4>
 07|10|16
-<br /><br />
+<br />
 plant, sampler, devices
 <br /><br />
 <img src="{{ site.url }}/images/albert-mayr.jpg" alt="image">

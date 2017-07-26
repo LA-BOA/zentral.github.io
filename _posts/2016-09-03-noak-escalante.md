@@ -14,7 +14,7 @@ JB :
 <h4>preopening -  <br />
 	Pit Noack <br />
 	Mauricio Valdes / Martin Escalante</h4>	
-03|9|16<br /><br />
+03|9|16<br />
 tapes<br />
 saxophone, guitar, computer 
 

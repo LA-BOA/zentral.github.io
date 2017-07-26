@@ -15,7 +15,7 @@ JB :
 <p>
 <h4>Gustavo Méndez / Stefan Nussbaumer</h4>
 11|11|16
-<br /><br />
+<br />
 computer
 <br /><br />
 <img src="{{ site.url }}/images/gustavo_stefan.jpg" alt="image">

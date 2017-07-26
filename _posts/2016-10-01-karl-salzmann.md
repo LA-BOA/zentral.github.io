@@ -15,7 +15,7 @@ JB :
 <p>
 <h4>Karl Salzmann</h4>
 01|10|16
-<br /><br />
+<br />
 ultra low bass loudspeaker
 <br /><br />
 <img src="{{ site.url }}/images/karl_salzmann.jpg" alt="image">

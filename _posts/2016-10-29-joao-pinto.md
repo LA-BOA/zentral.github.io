@@ -15,7 +15,7 @@ JB :
 <p>
 <h4>João Castro Pinto</h4>
 29|10|16
-<br /><br />
+<br />
 computer
 <br /><br />
 João Castro Pinto’s sound work ranges between: soundscape composition, dense droning, noise, electroacoustic, acousmatic, tape music & experimental electronic genres. He plays live electroacoustic music, with and without instrumentalists, as tape music / spatialization concerts.

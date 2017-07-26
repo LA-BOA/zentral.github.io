@@ -15,7 +15,7 @@ JB :
 <p>
 <h4>Cabaret Poulet</h4>
 07|10|16
-<br /><br />
+<br />
 feedback, contact mics, devices
 <br /><br />
 <img src="{{ site.url }}/images/cabaret-poulet.jpg" alt="image">
