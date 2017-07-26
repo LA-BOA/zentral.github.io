@@ -15,7 +15,7 @@ JB :
 <p>
 <h4>Anna Lerchbaumer & Andreas Zißler</h4>
 03|11|16
-<br /><br />
+<br />
 Metall/Schweine/Popcorn/Styropor und Pommes
 <br /><br />
 "omega 3"
