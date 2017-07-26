@@ -21,15 +21,6 @@ ultra low bass loudspeaker, 01|10|16
 <br /><br />
 
 
-{% comment %}
-<br /><br />
-Michael Fischer live:
-<br /><br />
-<iframe width="100%" height="550" frameborder="0" allowfullscreen="" webkitallowfullscreen="" src="https://www.youtube.com/embed/PaHuNu9I3O8">
-</iframe>
-<br />
-{% endcomment %}
-
 </p>
 
 

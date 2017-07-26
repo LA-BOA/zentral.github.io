@@ -31,8 +31,3 @@ Michael Fischer live:
 {% endcomment %}
 
 </p>
-
-
-
-{% comment %}
-{% endcomment %}
