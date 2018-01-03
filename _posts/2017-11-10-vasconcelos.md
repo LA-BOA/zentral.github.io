@@ -17,6 +17,6 @@ JB :
 10|11|17
 
 <br /><br />
-<img src="{{ site.url }}/images/vasconcelos_small.jpg" alt="image">
+<img src="{{ site.url }}/images/vasconcelos_small2.jpg" alt="image">
 
 </p>

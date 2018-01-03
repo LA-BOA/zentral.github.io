@@ -17,7 +17,6 @@ JB :
 03|12|17
 
 <br /><br />
-<img src="{{ site.url }}/images/arn_small.jpg" alt="image"></p>
-<p><img src="{{ site.url }}/images/kurdi_small.jpg" alt="image">
+<img src="{{ site.url }}/images/dieb13_minton_small.jpg" alt="image">
 
 </p>
