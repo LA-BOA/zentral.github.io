@@ -18,7 +18,7 @@ JB :
 <br />
 feedback, contact mics, devices
 <br /><br />
-<img src="{{ site.url }}/images/cabaret-poulet.jpg" alt="image">
+<img src="{{ site.url }}/images/cabaret_poulet_small.jpg" alt="image">
 <br /><br />
 
 
