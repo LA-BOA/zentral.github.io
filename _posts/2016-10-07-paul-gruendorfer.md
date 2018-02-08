@@ -13,7 +13,7 @@ JB :
 
 
 <p>
-<h4>Cabaret Poulet</h4>
+<h4>Paul Gründorfer</h4>
 07|10|16
 <br />
 feedback, contact mics, devices
