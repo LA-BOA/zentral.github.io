@@ -13,7 +13,7 @@ JB :
 
 
 <p>
-<h4>Jérôme Noetinger + Aude Romary (FR) (Performance)</h4>
+<h4>Jérôme Noetinger + Aude Romary</h4>
 13|09|17
 
 <br /><br />

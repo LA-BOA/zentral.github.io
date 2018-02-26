@@ -13,10 +13,12 @@ JB :
 
 
 <p>
-<h4>Phil Minton & dieb13</h4>
-03|12|17
+<h4>Christine Schörkhuber</h4>
+01|02|18
 
 <br /><br />
-<img src="{{ site.url }}/images/dieb13_minton_small.jpg" alt="image">
+photo by Mihail Novakov
+</p><p>
+<img src="{{ site.url }}/images/christine-schoerkhuber_small.jpg" alt="image">
 
 </p>

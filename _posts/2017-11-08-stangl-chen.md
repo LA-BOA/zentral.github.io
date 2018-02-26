@@ -13,7 +13,7 @@ JB :
 
 
 <p>
-<h4>Audrey Chen | Burkhard Stangl (Performance)</h4>
+<h4>Audrey Chen | Burkhard Stangl</h4>
 11|08|17
 
 <br /><br />

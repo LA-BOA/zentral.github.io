@@ -13,10 +13,10 @@ JB :
 
 
 <p>
-<h4>Phil Minton & dieb13</h4>
-03|12|17
+<h4>Seijiro Murayama + Klaus Filip</h4>
+15|01|18
 
 <br /><br />
-<img src="{{ site.url }}/images/dieb13_minton_small.jpg" alt="image">
+<img src="{{ site.url }}/images/filip-murayama_small.jpg" alt="image">
 
 </p>
