@@ -17,7 +17,9 @@ JB :
 "A Kiss Away From Reality"<br />
 02|06|18
 
+{% comment %}
 <br /><br />
 </p><p>
 <img src="{{ site.url }}/images/schaich.jpg" alt="image">
 </p>
+{% endcomment %}

@@ -16,8 +16,9 @@ JB :
 <h4>Michael Schuhmacher</h4>
 12|05|18
 
+{% comment %}
 <br /><br />
 </p><p>
 <img src="{{ site.url }}/images/schuhmacher.jpg" alt="image">
 </p>
-
+{% endcomment %}
