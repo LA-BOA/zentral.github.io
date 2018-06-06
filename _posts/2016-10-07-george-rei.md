@@ -22,7 +22,7 @@ JB :
 
 <p style="font-size:14px">
 live:<br />
-Albert Mayr & Cabaret Poulet
+Albert Mayr & Paul Gründorfer
 </p>
 <br />
 <img src="{{ site.url }}/images/george_rei.jpg" alt="image">
