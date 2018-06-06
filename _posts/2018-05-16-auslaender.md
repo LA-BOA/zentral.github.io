@@ -18,5 +18,5 @@ JB :
 
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/auslaender.jpg" alt="image">
+<img src="{{ site.url }}/images/auslaender_sm.jpg" alt="image">
 </p>
