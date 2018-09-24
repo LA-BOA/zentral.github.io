@@ -19,5 +19,5 @@ JB :
 
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/hui_ye_transient_hole.jpg.jpg" alt="image">
+<img src="{{ site.url }}/images/hui_ye_transient_hole.jpg" alt="image">
 </p>
