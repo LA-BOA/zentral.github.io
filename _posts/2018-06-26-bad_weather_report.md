@@ -16,10 +16,11 @@ JB :
 <h4>bad weather report</h4>
 26|06|18
 
-{% comment %}
+
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/pamp.jpg" alt="image">
+<img src="{{ site.url }}/images/bad_weather_report_small.jpg" alt="image">
 </p>
 
+{% comment %}
 {% endcomment %}

@@ -14,12 +14,10 @@ JB :
 
 <p>
 <h4>Transient Hole (Variations) IIV / Hui Ye</h4>
-"art, fun an seriously blinking stuff"<br />
 04|09|18 - 05|09|18 
-
 
 
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/transient_hole7.jpg" alt="image">
+<img src="{{ site.url }}/images/hui_ye_transient_hole.jpg.jpg" alt="image">
 </p>

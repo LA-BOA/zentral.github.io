@@ -16,10 +16,11 @@ JB :
 <h4>The Fondle Tour - Mitra Saboury, Nina Sarnelle, Megan Snowe</h4>
 11|06|18
 
-{% comment %}
+
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/pamp.jpg" alt="image">
+<img src="{{ site.url }}/images/fondle_tour_small.jpg" alt="image">
 </p>
 
+{% comment %}
 {% endcomment %}
