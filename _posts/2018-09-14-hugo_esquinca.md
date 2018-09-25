@@ -21,5 +21,5 @@ JB :
 
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/hugo_esquinca_performance.jpg" alt="image">
+<img src="{{ site.url }}/images/hugo_esquinca_anonym.jpg" alt="image">
 </p>
