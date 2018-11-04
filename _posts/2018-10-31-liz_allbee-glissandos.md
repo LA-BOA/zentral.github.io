@@ -21,7 +21,9 @@ JB :
 </p><p>
 <img src="{{ site.url }}/images/liz_allbee.jpg" alt="image">
 </p><p>
-<img src="{{ site.url }}/images/glissandos.jpg" alt="image">	
+<img src="{{ site.url }}/images/glissandos.jpg" alt="image">
+</p><p>
+<img src="{{ site.url }}/images/kafka.jpg" alt="image">	
 </p>
 
 
