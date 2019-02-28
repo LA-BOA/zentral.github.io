@@ -21,5 +21,5 @@ live performance am 23.01. mit Karl Salzmann
 
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/anna_lerchbaumer_sm.jpg" alt="image">
+<img src="{{ site.url }}/images/anna_exhib.jpg" alt="image">
 </p>
