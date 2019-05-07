@@ -19,7 +19,7 @@ JB :
 
 <br /><br />
 </p><p>
-<img src="{{ site.url }}/images/arnaud_oliver.jpg" alt="image">
+<img src="{{ site.url }}/images/arnauld_olivier.jpg" alt="image">
 
 </p>
 
