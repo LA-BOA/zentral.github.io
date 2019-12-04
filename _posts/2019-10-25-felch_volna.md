@@ -19,7 +19,6 @@ Caustic Studies<br />
 <br /><br />
 </p><p>
 <img src="{{ site.url }}/images/volna_sm.jpg" alt="image">
-</p>
 </p><p>
 <img src="{{ site.url }}/images/alexander_felch_sm.jpg" alt="image">
 </p>

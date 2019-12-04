@@ -19,7 +19,6 @@ JB :
 <br /><br />
 </p><p>
 <img src="{{ site.url }}/images/dieb_small.jpg" alt="image">
-
 </p>
 
 

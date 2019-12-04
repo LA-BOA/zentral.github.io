@@ -19,7 +19,6 @@ JB :
 <br /><br />
 </p><p>
 <img src="{{ site.url }}/images/zazie_angelica.jpg" alt="image">
-
 </p>
 
 
