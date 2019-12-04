@@ -14,9 +14,7 @@ JB :
 
 <p>
 <h4>Lukas Simonis + Ivan Palacky</h4>
-17|10|18<br />
-
-
+17|10|18
 
 <br /><br />
 </p><p>

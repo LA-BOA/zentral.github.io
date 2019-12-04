@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Arnaud Riviere + Olivier di Placido </h4>
-30|04|19<br />
-
+30|04|19
 
 <br /><br />
 </p><p>

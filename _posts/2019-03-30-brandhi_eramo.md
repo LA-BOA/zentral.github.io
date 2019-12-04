@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Elvin Brandhi + Firas / Alessandra Eramo</h4>
-30|03|19<br />
-
+30|03|19
 
 <br /><br />
 </p><p>

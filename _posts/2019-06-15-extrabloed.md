@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Extrablöd: Nina Bauer / Dieb13 / Noid</h4>
-15|06|19<br />
-
+15|06|19
 
 <br /><br />
 </p><p>

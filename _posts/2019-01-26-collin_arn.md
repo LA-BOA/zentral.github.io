@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Jon Collin / Eric Arn</h4>
-26|01|19<br />
-
+26|01|19
 
 <br /><br />
 </p><p>

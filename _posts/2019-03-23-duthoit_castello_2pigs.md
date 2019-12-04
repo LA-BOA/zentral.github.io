@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Isabelle Duthoit + Angélica Castelló / Two pigs under one umbrella</h4>
-23|03|19<br />
-
+23|03|19
 
 <br /><br />
 </p><p>

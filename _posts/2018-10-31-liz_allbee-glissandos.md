@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Liz Allbee & Los Glissandos / Tena Novak Vincek + Damir P. Kafka</h4>
-31|10|18<br />
-
+31|10|18
 
 <br /><br />
 </p><p>

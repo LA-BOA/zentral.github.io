@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>Binär / Nicolás Spencer</h4>
-04|04|19<br />
-
+04|04|19
 
 <br /><br />
 </p><p>

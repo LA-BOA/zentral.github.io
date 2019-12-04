@@ -14,8 +14,7 @@ JB :
 
 <p>
 <h4>JD Zazie / Angelica Castello</h4>
-16|04|19<br />
-
+16|04|19
 
 <br /><br />
 </p><p>

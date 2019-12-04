@@ -17,7 +17,6 @@ JB :
 "A Kiss Away From Reality"<br />
 02|06|18
 
-
 <br /><br />
 </p><p>
 <img src="{{ site.url }}/images/hanna_schaich.jpg" alt="image">

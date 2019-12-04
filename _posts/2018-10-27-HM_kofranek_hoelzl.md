@@ -14,9 +14,7 @@ JB :
 
 <p>
 <h4>H&M / Arik Kofranek + Hannes Hoelzl</h4>
-27|10|18<br />
-
-
+27|10|18
 
 <br /><br />
 </p><p>

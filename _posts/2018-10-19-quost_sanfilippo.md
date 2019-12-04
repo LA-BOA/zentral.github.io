@@ -14,9 +14,7 @@ JB :
 
 <p>
 <h4>Timothée Quost / Dario Sanfilippo</h4>
-19|10|18<br />
-
-
+19|10|18
 
 <br /><br />
 </p><p>

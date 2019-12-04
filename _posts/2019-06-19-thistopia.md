@@ -15,7 +15,6 @@ JB :
 <h4>THIS.TOPIA</h4>
 /w Arno Egger, Michael Koch, Eva Maria Schartmüller & Robert Reszner<br />
 19|06|19 - 31|08|19
-<br /><br />
 
 <br /><br />
 </p><p>

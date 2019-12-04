@@ -15,7 +15,6 @@ JB :
 <h4>Robert Mathy</h4>
 "Robert Mathy"<br />
 22|02|19 - 24|03|19
-<br /><br />
 
 <br /><br />
 </p><p>
