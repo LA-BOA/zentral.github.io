@@ -18,8 +18,6 @@ Caustic Studies<br />
 <br /><br />
 
 
-
-
 </p><p>
 <img src="{{ site.url }}/images/volna_sm.jpg" alt="image">
 </p>
